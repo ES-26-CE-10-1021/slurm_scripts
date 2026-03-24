@@ -23,4 +23,4 @@ srun sh scripts/train.sh \
     -d scannet \
     -c det-3detr-v0m1-0-scannet-180ep \
     -n 3detr_pointcept_180ep \
-    -g 1
+    -g 4
